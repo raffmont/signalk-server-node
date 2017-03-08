@@ -61,7 +61,7 @@
     "moment": "^2.10.6",
     "morgan": "^1.5.0",
     "n2k-signalk": "0.0.1-1",
-    "nmea0183-signalk": "github:signalk/nmea0183-signalk",
+    "nmea0183-signalk": "github:raffmont/signalk-parser-nmea0183",
     "node-gpsd": "^0.3.0",
     "node-uuid": "^1.4.3",
     "pem": "^1.8.1",
